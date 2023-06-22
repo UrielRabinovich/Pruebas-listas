@@ -1,0 +1,16 @@
+body{
+background-color: aquamarine;
+font-family: cursive;
+color: rgb(255, 255, 255);
+}
+ul 
+{
+   list-style: none;
+}
+li 
+{
+    display: inline-block;
+}
+a {
+    color: black;
+}
